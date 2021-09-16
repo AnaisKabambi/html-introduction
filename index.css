@@ -1,27 +1,59 @@
 h1 {color: darkgreen;
     text-align: center;
     text-shadow: 2px 2px 5px darkslategrey;
+    font-family: "Academy Engraved LET";
 }
 
 h2 {color: mediumseagreen;
     text-decoration: underline;
+    font-family: "Academy Engraved LET";
+    text-align: center;
 }
 
 h3 {color: lightgreen;
-
+    text-align: center;
 }
 
-#para1 {color: olivedrab;
+#para1 {color: mediumseagreen;
         text-align: center;
+        font-family: "Academy Engraved LET";
 }
 
 p {color: dimgrey;
     font-size: 20px;
-
+    font-family:"Courier New";
+    text-align: center;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p.dotted {color: dimgrey;
+        font-size: 20px;
+        font-family:"Courier New";
+        text-align: center;
+}
+
+p.dotted {
+    border-style: dotted; text-align: center;}
+
 li {color: dimgrey;
-    font-size: 20px;}
+    font-size: 20px;
+    font-family: "Courier New";
+    text-align: left;
+}
 
 table {color: dimgrey;
-    font-size: 20px;}
+    font-size: 20px;
+    font-family: "Courier New";
+    text-align: center;
+}
+
+
+img {align-content: center;
+    padding: 25px 50px 75px 100px;
+    border-radius: 50%;
+}
