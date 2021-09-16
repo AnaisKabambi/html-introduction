@@ -7,7 +7,10 @@ h1 {color: darkgreen;
 h2 {color: mediumseagreen;
     text-decoration: underline;
     font-family: "Academy Engraved LET";
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 480c8c83a698183eacfa4f585ebe9d61906c1636
 }
 
 h3 {color: lightgreen;
@@ -22,6 +25,7 @@ h3 {color: lightgreen;
 p {color: dimgrey;
     font-size: 20px;
     font-family:"Courier New";
+<<<<<<< HEAD
     text-align: center;
 }
 
@@ -39,21 +43,41 @@ p.dotted {color: dimgrey;
 
 p.dotted {
     border-style: dotted; text-align: center;}
+=======
+}
+
+p.dotted {color: dimgrey;
+        font-size: 20px;
+        font-family:"Courier New"
+}
+
+p.dotted {
+    border-style: dotted;}
+>>>>>>> 480c8c83a698183eacfa4f585ebe9d61906c1636
 
 li {color: dimgrey;
     font-size: 20px;
     font-family: "Courier New";
+<<<<<<< HEAD
     text-align: left;
+=======
+>>>>>>> 480c8c83a698183eacfa4f585ebe9d61906c1636
 }
 
 table {color: dimgrey;
     font-size: 20px;
     font-family: "Courier New";
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 480c8c83a698183eacfa4f585ebe9d61906c1636
 }
 
 
 img {align-content: center;
+<<<<<<< HEAD
     padding: 25px 50px 75px 100px;
     border-radius: 50%;
+=======
+>>>>>>> 480c8c83a698183eacfa4f585ebe9d61906c1636
 }
