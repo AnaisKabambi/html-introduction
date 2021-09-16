@@ -1,10 +1,12 @@
 h1 {color: darkgreen;
     text-align: center;
     text-shadow: 2px 2px 5px darkslategrey;
+    font-family: "Academy Engraved LET";
 }
 
 h2 {color: mediumseagreen;
     text-decoration: underline;
+    font-family: "Academy Engraved LET";
 }
 
 h3 {color: lightgreen;
@@ -13,15 +15,32 @@ h3 {color: lightgreen;
 
 #para1 {color: olivedrab;
         text-align: center;
+        font-family: "Academy Engraved LET";
 }
 
 p {color: dimgrey;
     font-size: 20px;
-
+    font-family:"Courier New";
 }
 
+p.dotted {color: dimgrey;
+        font-size: 20px;
+        font-family:"Courier New"
+}
+
+p.dotted {
+    border-style: dotted;}
+
 li {color: dimgrey;
-    font-size: 20px;}
+    font-size: 20px;
+    font-family: "Courier New";
+}
 
 table {color: dimgrey;
-    font-size: 20px;}
+    font-size: 20px;
+    font-family: "Courier New";
+}
+
+
+img {align-content: center;
+}
