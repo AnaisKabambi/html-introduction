@@ -1,0 +1,27 @@
+h1 {color: darkgreen;
+    text-align: center;
+    text-shadow: 2px 2px 5px darkslategrey;
+}
+
+h2 {color: mediumseagreen;
+    text-decoration: underline;
+}
+
+h3 {color: lightgreen;
+
+}
+
+#para1 {color: olivedrab;
+        text-align: center;
+}
+
+p {color: dimgrey;
+    font-size: 20px;
+
+}
+
+li {color: dimgrey;
+    font-size: 20px;}
+
+table {color: dimgrey;
+    font-size: 20px;}
